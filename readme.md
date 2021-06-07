@@ -59,7 +59,7 @@ module budget './main.bicep' = {
     amount: 1000
     resetPeriod: 'Monthly'
     startDate: '2021-07-01'
-    enddate: '2021-12-01'
+    endDate: '2021-12-01'
   }
 }
 ```
